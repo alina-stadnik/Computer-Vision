@@ -6,11 +6,16 @@ This repository contains studies using background subtraction techniques. **Back
 
 Applications:
 
-• Monitoring
-• Tracking
-• Object recognition (pedestrians)
-• Object segmentation
-• Counting the number of visitors
+• Monitoring;
+
+• Tracking;
+
+• Object recognition (pedestrians);
+
+• Object segmentation;
+
+• Counting the number of visitors;
+
 • Vehicle counting.
 
 **Background Substraction: Pipeline**
